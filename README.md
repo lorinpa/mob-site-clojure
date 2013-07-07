@@ -14,6 +14,7 @@ The easiest way to use this application is to intall [Clojure] (http://clojure.o
 and [Leiningen] (http://http://leiningen.org/). This application requires the [Apache Commons IO] 
 (http://commons.apache.org/proper/commons-io/) library.
 
+Documentation generated with the Leiningen plugin [Codox] (https://github.com/weavejester/codox)
 
 Usage
 
