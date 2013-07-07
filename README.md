@@ -1,4 +1,4 @@
-# mob-site
+# mob-site-clojure
 
 Generates a web site customized for mobile devices.
 
@@ -25,4 +25,14 @@ $mob-site-gen> lein -in RSS_INPUT_FILE -out OUTPUTDIR
 ## License
 Code licensed under [GNU General Public License, version 2] (http://www.gnu.org/licenses/gpl-2.0.html")
 
+## License
 Written by Lorin M Klugman
+
+## Development Notes
+
+To run tests, issue the following command line:
+$> lein test
+
+To generate documentation, issue the following command line:
+$> lein doc
+
