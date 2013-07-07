@@ -22,9 +22,7 @@ Issue the following commaand line:
 
 $mob-site-gen> lein -in RSS_INPUT_FILE -out OUTPUTDIR
 
-
-
-
 ## License
+Code licensed under [GNU General Public License, version 2] (http://www.gnu.org/licenses/gpl-2.0.html")
 
 Written by Lorin M Klugman
